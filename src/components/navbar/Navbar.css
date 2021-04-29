@@ -1,0 +1,33 @@
+/* .navigationbar {
+  padding: 0 50px;
+  justify-content: space-between;
+  background-color: rgb(219, 253, 255);
+}
+.navigationbar a {
+  text-decoration: none;
+  color: rgba(39, 2, 23, 0.37);
+}
+.navigation ul {
+  text-align: right;
+  list-style: none;
+  margin: 0;
+}
+.navigation__item {
+
+  font-weight: bold;
+  padding: 10px 20px;
+  display: inline-block;
+}
+.navigation__item:hover {
+  background-color: lightgray;
+}
+.user_display {
+  text-align: center;
+  border: 1px solid lightslategray;
+}
+.user_display p {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  line-height: 0.9;
+} */

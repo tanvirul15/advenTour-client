@@ -1,0 +1,32 @@
+.header {
+  height: 95vh;
+  background-image: linear-gradient(to right bottom, rgba(213, 111, 111, 0.438), rgba(255, 249, 165, 0.596)), url(../../../img/header-bg.jpg);
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+}
+.header__text-box {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.heading-primary {
+  color: #fff;
+  text-transform: uppercase;
+  backface-visibility: hidden;
+  margin-bottom: 6rem;
+}
+.heading-primary--main {
+  display: block;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 20px;
+}
+.heading-primary--sub {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 10px;
+}

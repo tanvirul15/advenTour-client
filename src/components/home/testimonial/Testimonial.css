@@ -1,0 +1,9 @@
+.review-box::before {
+  content: "\201C";
+  font-size: 390%;
+  display: block;
+  position: absolute;
+
+  top: -15px;
+  left: 5px;
+}

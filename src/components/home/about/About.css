@@ -1,0 +1,9 @@
+.about-section {
+  background-image: linear-gradient(to right bottom, rgba(139, 156, 253, 0.363), rgba(190, 6, 6, 0.411));
+}
+.about__card {
+  transition: all;
+}
+.about__card:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}

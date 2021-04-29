@@ -1,0 +1,8 @@
+.features__img {
+  height: 250px;
+  transition: all 0.5s;
+}
+.features__img:hover {
+  outline: 1.5rem solid #55c57a;
+  transform: scale(1.05) translateY(-0.5rem);
+}
